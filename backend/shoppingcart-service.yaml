@@ -353,6 +353,7 @@ Resources:
       Handler: db_stream_handler.lambda_handler
       Layers:
         - !Ref UtilsLayer
+      ReservedConcurrentExecutions: 25
       Policies:
         - AWSLambdaDynamoDBExecutionRole
         - Statement:
