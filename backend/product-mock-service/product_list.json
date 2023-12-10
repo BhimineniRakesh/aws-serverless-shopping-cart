@@ -4,7 +4,7 @@
         "createdDate": "2017-04-17T01:14:03 -02:00",
         "description": "Delight your senses with the exquisite allure of 'Packaged Strawberries,' a fruit sensation that transcends ordinary sweetness.",
         "modifiedDate": "2023-11-13T12:18:27 -01:00",
-        "name": "Packaged strawberries",
+        "name": "Packaged Strawberries",
         "package": {
             "height": 948,
             "length": 455,
@@ -79,7 +79,7 @@
         "createdDate": "2023-11-17T02:14:55 -02:00",
         "description": "These tomatoes, handpicked at the peak of ripeness, carry the essence of sun-kissed fields and are thoughtfully packaged to preserve their natural goodness.",
         "modifiedDate": "2019-09-05T03:36:34 -02:00",
-        "name": "Packaged tomatoes",
+        "name": "Packaged Tomatoes",
         "package": {
             "height": 4,
             "length": 756,
@@ -179,7 +179,7 @@
         "createdDate": "2023-11-27T06:48:08 -02:00",
         "description": "Experience the crisp vibrancy of nature with our 'Fresh Lettuce.' Harvested at the peak of perfection, this verdant delight is a testament to the art of cultivating the finest greens.",
         "modifiedDate": "2019-11-01T10:23:57 -01:00",
-        "name": "Fresh lettuce",
+        "name": "Fresh Lettuce",
         "package": {
             "height": 21,
             "length": 311,
@@ -254,7 +254,7 @@
         "createdDate": "2023-11-22T05:22:38 -02:00",
         "description": " Each croissant is a work of art, carefully rolled and baked to perfection, ensuring a texture that is both crisp and irresistibly soft.",
         "modifiedDate": "2019-03-11T06:10:38 -01:00",
-        "name": "Fresh croissants",
+        "name": "Fresh Croissants",
         "package": {
             "height": 122,
             "length": 23,
@@ -304,7 +304,7 @@
         "createdDate": "2023-11-12T09:15:36 -02:00",
         "description": " Crafted with care and passion, this bread is a timeless classic, offering a symphony of flavors and textures that transcend the ordinary.",
         "modifiedDate": "2019-08-22T04:22:39 -02:00",
-        "name": "Fresh bread",
+        "name": "Fresh Bread",
         "package": {
             "height": 551,
             "length": 976,
@@ -429,7 +429,7 @@
         "createdDate": "2023-11-23T06:31:47 -02:00",
         "description": "Indulge in the pure essence of dairy delight with our Fresh Milk – a symphony of creamy goodness and wholesome nutrition.",
         "modifiedDate": "2019-10-02T10:50:16 -02:00",
-        "name": "Fresh milk",
+        "name": "Fresh Milk",
         "package": {
             "height": 576,
             "length": 948,
@@ -479,7 +479,7 @@
         "createdDate": "2023-11-14T03:39:21 -02:00",
         "description": "Sourced from the finest cuts, our fresh steak promises an exquisite dining experience that transcends the ordinary.",
         "modifiedDate": "2019-11-24T02:23:27 -01:00",
-        "name": "Fresh steak",
+        "name": "Fresh Steak",
         "package": {
             "height": 328,
             "length": 7,
