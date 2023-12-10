@@ -1,6 +1,6 @@
 [
     {
-        "category": "fruit",
+        "category": "Fruit",
         "createdDate": "2017-04-17T01:14:03 -02:00",
         "description": "Delight your senses with the exquisite allure of 'Packaged Strawberries,' a fruit sensation that transcends ordinary sweetness.",
         "modifiedDate": "2023-11-13T12:18:27 -01:00",
@@ -25,7 +25,7 @@
         ]
     },
     {
-        "category": "sweets",
+        "category": "Sweet",
         "createdDate": "2023-11-06T06:21:36 -02:00",
         "description": "A symphony of rich cocoa and sweet sensations entwined in every chew. Immerse yourself in the playful dance of smooth chocolatey goodness, as each bite unveils a world of irresistible flavor.",
         "modifiedDate": "2023-11-21T12:08:48 -02:00",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "category": "fruit",
+        "category": "Fruit",
         "createdDate": "2023-11-17T03:06:53 -01:00",
         "description": "Introducing 'Bananas,' nature's golden gift that transcends ordinary sweetness to deliver a delightful tropical experience.",
         "modifiedDate": "2019-11-25T12:32:49 -01:00",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2023-11-17T02:14:55 -02:00",
         "description": "These tomatoes, handpicked at the peak of ripeness, carry the essence of sun-kissed fields and are thoughtfully packaged to preserve their natural goodness.",
         "modifiedDate": "2019-09-05T03:36:34 -02:00",
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2023-11-25T12:00:11 -02:00",
         "description": "Indulge your senses in the vibrant world of 'Bell Peppers,' a vegetable masterpiece cultivated with dedication and passion.",
         "modifiedDate": "2019-10-04T06:32:14 -02:00",
@@ -125,7 +125,7 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2023-11-07T05:28:03 -01:00",
         "description": "As you slice through the layers of our 'Onions,' released are the distinct aromas and flavors that have been cherished in kitchens around the world.",
         "modifiedDate": "2019-04-03T10:36:25 -02:00",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2023-11-03T12:33:44 -01:00",
         "description": "Dive into the exquisite world of seafood with our 'Shrimps.' Born from the depths of the ocean, these delectable crustaceans bring a taste of the sea to your table.",
         "modifiedDate": "2019-04-17T06:31:47 -02:00",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2023-11-27T06:48:08 -02:00",
         "description": "Experience the crisp vibrancy of nature with our 'Fresh Lettuce.' Harvested at the peak of perfection, this verdant delight is a testament to the art of cultivating the finest greens.",
         "modifiedDate": "2019-11-01T10:23:57 -01:00",
@@ -200,7 +200,7 @@
         ]
     },
     {
-        "category": "sweet",
+        "category": "Sweet",
         "createdDate": "2023-11-24T04:01:33 -01:00",
         "description": "Experience the sweet symphony of indulgence with 'Hershey's Miniatures,' a delightful ensemble of iconic chocolate treat.",
         "modifiedDate": "2019-05-19T05:53:56 -02:00",
@@ -225,7 +225,7 @@
         ]
     },
     {
-        "category": "dairy",
+        "category": "Dairy",
         "createdDate": "2023-11-29T11:46:28 -02:00",
         "description": "Indulge in the creamy goodness of our 'Yogurt,' a delectable creation that harmonizes the essence of dairy with a touch of culinary finesse.",
         "modifiedDate": "2019-05-29T05:33:49 -02:00",
@@ -250,11 +250,11 @@
         ]
     },
     {
-        "category": "bakery",
+        "category": "Bakery",
         "createdDate": "2023-11-22T05:22:38 -02:00",
         "description": " Each croissant is a work of art, carefully rolled and baked to perfection, ensuring a texture that is both crisp and irresistibly soft.",
         "modifiedDate": "2019-03-11T06:10:38 -01:00",
-        "name": "fresh croissants",
+        "name": "Fresh croissants",
         "package": {
             "height": 122,
             "length": 23,
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2023-11-12T07:24:46 -02:00",
         "description": "Our 'Beef' transcends time and tradition, bringing the essence of a well-prepared meal to your dining table.",
         "modifiedDate": "2019-10-28T01:25:50 -01:00",
@@ -300,11 +300,11 @@
         ]
     },
     {
-        "category": "bakery",
+        "category": "Bakery",
         "createdDate": "2023-11-12T09:15:36 -02:00",
         "description": " Crafted with care and passion, this bread is a timeless classic, offering a symphony of flavors and textures that transcend the ordinary.",
         "modifiedDate": "2019-08-22T04:22:39 -02:00",
-        "name": "fresh bread",
+        "name": "Fresh bread",
         "package": {
             "height": 551,
             "length": 976,
@@ -325,7 +325,7 @@
         ]
     },
     {
-        "category": "sweet",
+        "category": "Sweet",
         "createdDate": "2023-11-06T06:03:43 -02:00",
         "description": "As you savor each bite, you'll experience the perfect harmony of sweetness, transporting you to a world where every moment is a celebration.",
         "modifiedDate": "2019-10-16T10:53:33 -02:00",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "category": "bakery",
+        "category": "Bakery",
         "createdDate": "2023-11-23T12:27:34 -02:00",
         "description": "Indulge in the divine allure of our Cheese Cake, a tantalizing creation that embodies the artistry of fine baking.",
         "modifiedDate": "2019-09-04T08:25:44 -02:00",
@@ -375,7 +375,7 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2023-11-08T04:08:28 -01:00",
         "description": "Embark on a culinary adventure with our exquisite Potatoes, a versatile delight that elevates your dining experience to new heights.",
         "modifiedDate": "2019-10-11T10:28:49 -02:00",
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2023-11-28T04:01:24 -02:00",
         "description": "Experience the epitome of poultry perfection with our succulent Chicken Breast.",
         "modifiedDate": "2019-08-05T01:06:02 -02:00",
@@ -425,11 +425,11 @@
         ]
     },
     {
-        "category": "dairy",
+        "category": "Dairy",
         "createdDate": "2023-11-23T06:31:47 -02:00",
         "description": "Indulge in the pure essence of dairy delight with our Fresh Milk – a symphony of creamy goodness and wholesome nutrition.",
         "modifiedDate": "2019-10-02T10:50:16 -02:00",
-        "name": "fresh milk",
+        "name": "Fresh milk",
         "package": {
             "height": 576,
             "length": 948,
@@ -450,7 +450,7 @@
         ]
     },
     {
-        "category": "vegetable",
+        "category": "Vegetable",
         "createdDate": "2023-11-21T01:55:54 -01:00",
         "description": "Cultivated with care and bursting with freshness, these tomatoes are a testament to the artistry of the earth.",
         "modifiedDate": "2019-02-23T08:50:01 -01:00",
@@ -475,11 +475,11 @@
         ]
     },
     {
-        "category": "meat",
+        "category": "Meat",
         "createdDate": "2023-11-14T03:39:21 -02:00",
         "description": "Sourced from the finest cuts, our fresh steak promises an exquisite dining experience that transcends the ordinary.",
         "modifiedDate": "2019-11-24T02:23:27 -01:00",
-        "name": "fresh steak",
+        "name": "Fresh steak",
         "package": {
             "height": 328,
             "length": 7,
